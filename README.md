@@ -7,4 +7,6 @@ The provided data appears to be a detailed table showing Airbnb information, inc
 
 This overall interpretation provides a glimpse into the dynamics of the Airbnb market in New York City, showcasing the diverse offerings and preferences of both hosts and guests across different neighborhoods and boundaries.
 
+PDF LINK : https://drive.google.com/file/d/1f9jJNXt5HrGqoZrIf6AvueSunoQfHOsq/view?usp=sharing
 
+EXCEL LINK : https://docs.google.com/spreadsheets/d/1cVczhkkxfP1nkR8a_BnZFPbQGjHVH9AP/edit?usp=sharing&ouid=106945330597802157800&rtpof=true&sd=true
